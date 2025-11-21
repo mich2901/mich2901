@@ -31,4 +31,4 @@
 
 # < <code>⠀📞⠀ Contact ⠀⠀</code> />
 
-![Website](https://img.shields.io/badge/wwww.linkedin.com/in/michellesd-up-green?style=for-the-badge)
+![Website](https://img.shields.io/badge/wwww.linkedin.com/in/michellesd/-up-green?style=for-the-badge)
